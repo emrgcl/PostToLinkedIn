@@ -20,7 +20,8 @@ PostToLinkedIn/
 │   └─ run.ps1
 │
 └─ README.md
-`
+```
+
 
 - `PostImageFunction/`: This folder contains the Azure Function code and configuration.
   - `function.json`: This file defines the function's bindings and settings, including the Timer trigger configuration.
