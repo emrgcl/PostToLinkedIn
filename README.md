@@ -12,7 +12,7 @@ Before you can use the scripts in this repository, you need to create a LinkedIn
 4. In the same tab, add the necessary redirect URI for your app. This URI will be used to receive the authorization code during the OAuth 2.0 flow.
 
 ## Directory Structure
-`
+```
 PostToLinkedIn/
 │
 ├─ PostImageFunction/
