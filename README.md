@@ -12,7 +12,7 @@ Before you can use the scripts in this repository, you need to create a LinkedIn
 4. In the same tab, add the necessary redirect URI for your app. This URI will be used to receive the authorization code during the OAuth 2.0 flow.
 
 ## Directory Structure
-
+`
 PostToLinkedIn/
 │
 ├─ PostImageFunction/
@@ -20,6 +20,7 @@ PostToLinkedIn/
 │   └─ run.ps1
 │
 └─ README.md
+`
 
 - `PostImageFunction/`: This folder contains the Azure Function code and configuration.
   - `function.json`: This file defines the function's bindings and settings, including the Timer trigger configuration.
